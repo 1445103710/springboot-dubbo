@@ -10,6 +10,8 @@
     <version>1.0</version>
     <modules>
         <module>springboot-dubbo-project</module>
+        <module>dubbo-client</module>
+        <module>springboot-dubbo-client</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
